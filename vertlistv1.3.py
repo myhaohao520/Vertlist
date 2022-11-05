@@ -17,5 +17,6 @@ new_list = list.split(',')
 #vertical_list = input("Enter the list above here: ")
 print('\n'.join(new_list))
 
-#Changes: 
+#Changelog: 
 #Removed print() new_list and created the variable new_list, to instead of printing the result of list.split(), store the result in a variable
+#Removed step 3 entirely
