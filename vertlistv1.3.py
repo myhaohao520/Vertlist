@@ -16,3 +16,6 @@ new_list = list.split(',')
 #4. Run this code to print the list of names vertically
 #vertical_list = input("Enter the list above here: ")
 print('\n'.join(new_list))
+
+#Changes: 
+#Removed print() new_list and created the variable new_list, to instead of printing the result of list.split(), store the result in a variable
