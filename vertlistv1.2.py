@@ -15,3 +15,7 @@ new_list = list
 #4. Run this code to print the list of names vertically
 #vertical_list = input("Enter the list above here: ")
 print('\n'.join(new_list))
+
+#Changelog:
+#Removed the list of my name list from step 3
+#Create a new variable called new_list to update the list variable from step 2
