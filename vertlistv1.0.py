@@ -14,6 +14,6 @@ list = ['Carlo Pineda', ' Eduardo Covarrubias', ' Ting-Yueh Liu', ' Matt Dulog',
 print('\n'.join(list))
 
 
-#Changes:
+#Changelog:
 #Create a draft code for the script
 #All steps must be run independently
