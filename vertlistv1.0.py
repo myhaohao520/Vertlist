@@ -12,3 +12,8 @@ list = ['Carlo Pineda', ' Eduardo Covarrubias', ' Ting-Yueh Liu', ' Matt Dulog',
 
 #Step 4. Run this code to print the list of names vertically
 print('\n'.join(list))
+
+
+#Changes:
+#Create a draft code for the script
+#All steps must be run independently
