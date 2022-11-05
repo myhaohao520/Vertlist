@@ -15,3 +15,7 @@ new_list = ['Carlo Pineda', ' Eduardo Covarrubias', ' Ting-Yueh Liu', ' Matt Dul
 #4. Run this code to print the list of names vertically
 #vertical_list = input("Enter the list above here: ")
 print('\n'.join(new_list))
+
+
+#Changelog:
+#Added input() function to allow users to input their own name lists
