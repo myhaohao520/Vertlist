@@ -1,4 +1,4 @@
-#Python Script for printing list of names verticially (Replace the names with yours) V1.3
+#Python Script for printing list of names verticially (Replace the names with yours) V4
 
 #1. The list of names I will be using in this example
 #list = Carlo Pineda, Eduardo Covarrubias, Ting-Yueh Liu, Matt Dulog, Jian Hao Tang, Son Tran
