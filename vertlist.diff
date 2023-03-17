@@ -1,0 +1,17 @@
+3c3
+< #Python Script for printing list of names verticially (Replace the names with yours) V1.2
+---
+> #Python Script for printing list of names verticially (Replace the names with yours) V1.3
+8c8
+< #2. Put the list on names in '', run the code to split all the names into individual ''
+---
+> #2. Put the list on names in '', run the code to split all the names into individual '' and name the new list new_list
+11c11,12
+< print(list.split(','))
+---
+> #print(list.split(','))
+> new_list = list.split(',')
+15c16
+< new_list = list
+---
+> #new_list = list
